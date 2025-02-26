@@ -37,8 +37,8 @@ While the project is completed as of now, I may consider making improvements in 
 ## 📬 Contact
 
 Developed by **Kakani Niharkumar Kishorbhai**\
-📧 Email: [Your Email]\
-🔗 LinkedIn: [Your LinkedIn Profile]
+📧 Email: niharkakani@gmail.com\
+🔗 LinkedIn: www.linkedin.com/in/nihar-kakani-081676335
 
 ## ⭐ Show Your Support!
 
